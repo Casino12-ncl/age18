@@ -1,0 +1,39 @@
+msgid ""
+msgstr "Project-Id-Version: tygh\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Russian\n"
+"Language: en_EN\n"
+
+msgctxt "Addons::name::sd_age18"
+msgid "age18"
+msgstr "age18"
+
+msgctxt "Addons::description::sd_age18"
+msgid "checking age"
+msgstr "checking age"
+
+msgctxt "SettingsSections::sd_age18.age18"
+msgid "age18+"
+msgstr "age18+"
+
+msgctxt "Languages::age18"
+msgid "18+"
+msgstr "18+"
+
+msgctxt "Languages::date_birth"
+msgid "Birthday"
+msgstr "Birthday"
+
+msgctxt "Languages::age_check"
+msgid "Cheking your age"
+msgstr "Cheking your age"
+
+msgctxt "Languages::deny"
+msgid "Sorry, you are not allowed to stay on this site"
+msgstr "Sorry, you are not allowed to stay on this site"
+
+msgctxt "Languages::verify"
+msgid "verify"
+msgstr "verify"
+
+
